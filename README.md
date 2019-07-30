@@ -19,5 +19,5 @@ spring.datasource.username=root</br>
 spring.datasource.password=root</br>
 spring.jpa.hibernate.ddl-auto=update
 
-<h2Usage</h2>
+<h2>Usage</h2>
 Run the project through the IDE and head out to http://localhost:8080
